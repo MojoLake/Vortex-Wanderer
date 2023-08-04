@@ -1,1 +1,1 @@
-g++ main.cpp -o main -lSDL2 -lSDL2_image -lSDL2_ttf
+g++ game.cpp main.cpp -o main -lSDL2 -lSDL2_image -lSDL2_ttf
